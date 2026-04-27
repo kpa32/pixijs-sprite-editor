@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+.opencode
+.blueprint
+node_modules
+dist
+
